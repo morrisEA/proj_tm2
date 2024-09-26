@@ -22,7 +22,7 @@
 ## Authors
 
 * Corey Brady [cbrad020@odu.edu]
-* Linda Kanjanabout [lkanj001@odu]
+* Linda Kanjanabout [lkanj001@odu.edu]
 * Jaylen Davis [jdavi177@odu.edu]
 * Chloe Lee [clee030@odu.edu] 
 * Evan Morris [emorr018@odu.edu] 
