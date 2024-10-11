@@ -1,8 +1,15 @@
 <div class="button-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
+    <a href="#" class="big button primary">About Us</a>
+    <a href="#" class="big button">Problem</a>
+    <a href="#" class="big button">Presentations</a>
+    <a href="#" class="big button">Deliverables</a>
+    <a href="#" class="big button">Solution</a>
+    <a href="#" class="big button">User Stories</a>
+    <a href="#" class="big button">Labs</a>
+    <a href="#" class="big button">References</a>
+    <a href="#" class="big button">Glossary</a>
+
+
 </div>
 
 ## Description
