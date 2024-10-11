@@ -1,13 +1,13 @@
 <div class="button-group">
-    <a href="#" class="big button primary">About Us</a>
-    <a href="#" class="big button">Problem</a>
-    <a href="#" class="big button">Presentations</a>
-    <a href="#" class="big button">Deliverables</a>
-    <a href="#" class="big button">Solution</a>
-    <a href="#" class="big button">User Stories</a>
-    <a href="#" class="big button">Labs</a>
-    <a href="#" class="big button">References</a>
-    <a href="#" class="big button">Glossary</a>
+    <a href="#" class="button primary">About Us</a>
+    <a href="#" class="button">Problem</a>
+    <a href="#" class="button">Presentations</a>
+    <a href="#" class="button">Deliverables</a>
+    <a href="#" class="button">Solution</a>
+    <a href="#" class="button">User Stories</a>
+    <a href="#" class="button">Labs</a>
+    <a href="#" class="button">References</a>
+    <a href="#" class="button">Glossary</a>
 
 
 </div>
