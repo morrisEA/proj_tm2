@@ -1,11 +1,11 @@
 <div class="button-group">
     <a href="./" class="button primary">Home</a>
-    <a href="#" class="button">About Us</a>
-    <a href="#" class="button">Problem</a>
+    <a href="./about-us.html" class="button">About Us</a>
+    <a href="./problem.html" class="button">Problem</a>
     <a href="./presentations.html" class="button">Presentations</a>
-    <a href="#" class="button">Deliverables</a>
-    <a href="#" class="button">Solution</a>
-    <a href="#" class="button">References</a>
+    <a href="./deliverables.html" class="button">Deliverables</a>
+    <a href="./solution.html" class="button">Solution</a>
+    <a href="./references.html" class="button">References</a>
 
 
 </div>
@@ -28,11 +28,11 @@
 
 ## Authors
 
-* Corey Brady [cbrad020@odu.edu](mailto:cbrad020@odu.edu)
-* Linda Kanjanabout [lkanj001@odu.edu](mailto:lkanj001@odu.edu)
-* Jaylen Davis [jdavi177@odu.edu](mailto:jdavi177@odu.edu)
-* Chloe Lee [clee030@odu.edu](mailto:clee030@odu.edu) 
-* Evan Morris [emorr018@odu.edu](mailto:emorr018@odu.edu) 
+* Corey Brady, [cbrad020@odu.edu](mailto:cbrad020@odu.edu)
+* Linda Kanjanabout, [lkanj001@odu.edu](mailto:lkanj001@odu.edu)
+* Jaylen Davis, [jdavi177@odu.edu](mailto:jdavi177@odu.edu)
+* Chloe Lee, [clee030@odu.edu](mailto:clee030@odu.edu) 
+* Evan Morris, [emorr018@odu.edu](mailto:emorr018@odu.edu) 
 
 ## Version History
 
