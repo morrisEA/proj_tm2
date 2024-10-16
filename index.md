@@ -28,11 +28,11 @@
 
 ## Authors
 
-* Corey Brady, [cbrad020@odu.edu](mailto:cbrad020@odu.edu)
-* Linda Kanjanabout, [lkanj001@odu.edu](mailto:lkanj001@odu.edu)
-* Jaylen Davis, [jdavi177@odu.edu](mailto:jdavi177@odu.edu)
-* Chloe Lee, [clee030@odu.edu](mailto:clee030@odu.edu) 
-* Evan Morris, [emorr018@odu.edu](mailto:emorr018@odu.edu) 
+* Corey Brady, <cbrad020@odu.edu>
+* Linda Kanjanabout, <lkanj001@odu.edu>
+* Jaylen Davis, <jdavi177@odu.edu>
+* Chloe Lee, <clee030@odu.edu>
+* Evan Morris, <emorr018@odu.edu>
 
 ## Version History
 
