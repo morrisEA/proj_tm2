@@ -11,3 +11,5 @@
 </div>
 
 ## Problem
+
+![current process flow](./img/c-process-flow.png)
