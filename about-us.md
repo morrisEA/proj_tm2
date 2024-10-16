@@ -11,3 +11,5 @@
 </div>
 
 ## About Us
+
+![the team](./img/about-us.png)
