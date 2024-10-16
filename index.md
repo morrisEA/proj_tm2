@@ -1,7 +1,7 @@
 <div class="button-group">
     <a href="#" class="button primary">About Us</a>
     <a href="#" class="button">Problem</a>
-    <a href="./presentations.md" class="button">Presentations</a>
+    <a href="./presentations.html" class="button">Presentations</a>
     <a href="#" class="button">Deliverables</a>
     <a href="#" class="button">Solution</a>
     <a href="#" class="button">References</a>
