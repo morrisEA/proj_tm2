@@ -5,6 +5,7 @@
     <a href="./presentations.html" class="button">Presentations</a>
     <a href="./deliverables.html" class="button">Deliverables</a>
     <a href="./solution.html" class="button">Solution</a>
+    <a href="./lab.html" class="button">Labs</a>
     <a href="./references.html" class="button">References</a>
 
 
