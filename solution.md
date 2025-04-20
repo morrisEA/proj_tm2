@@ -13,4 +13,11 @@
 
 ## Solution
 
-Software includes a backend reporting tool for government and commercial entities to securely manage weapon inventories by focusing on user authentication and access control. The software suite integrates with RFID sensor technologies to track firearm access, managing user data to enhance accountability, compliance, and security in weapon management.
+Fire Watch is aimed to develop an automated system designed using RFID technology and secure authentication to modernize firearm inventory and issuance in
+DoD armories. 
+
+This solution will enhance efficiency and minimize human error and security risks by providing event logging, documentation, and
+Inventory management.
+
+
+
