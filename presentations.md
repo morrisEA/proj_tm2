@@ -15,7 +15,7 @@
 
 ### Final Prototype Presentation
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTp536bge2D7vubGUNZvyaDVtkzicxS4lpr-7x0_ssRkJeAgqbUFHwOAwPqNkx3u5Yto6q1-uAPoUyz/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTp536bge2D7vubGUNZvyaDVtkzicxS4lpr-7x0_ssRkJeAgqbUFHwOAwPqNkx3u5Yto6q1-uAPoUyz/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Feasibility Presentation
 
